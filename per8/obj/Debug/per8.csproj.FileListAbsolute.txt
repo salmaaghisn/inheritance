@@ -1,0 +1,6 @@
+D:\SEM 2\PEMOGRAMAN\pertemuan8\per8\per8\bin\Debug\per8.exe.config
+D:\SEM 2\PEMOGRAMAN\pertemuan8\per8\per8\bin\Debug\per8.exe
+D:\SEM 2\PEMOGRAMAN\pertemuan8\per8\per8\bin\Debug\per8.pdb
+D:\SEM 2\PEMOGRAMAN\pertemuan8\per8\per8\obj\Debug\per8.csprojResolveAssemblyReference.cache
+D:\SEM 2\PEMOGRAMAN\pertemuan8\per8\per8\obj\Debug\per8.exe
+D:\SEM 2\PEMOGRAMAN\pertemuan8\per8\per8\obj\Debug\per8.pdb
